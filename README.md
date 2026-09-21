@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/profile.png" alt="Shaik Adil Profile" width="150" style="border-radius: 50%; border: 3px solid #00f0ff;">
   <h1>Shaik Adil | Personal Portfolio</h1>
-  <p><b>Full-Stack Web Developer & AI Solutions Engineer</b></p>
+  <p><b>Full-Stack Developer & AI/ML Enthusiast</b></p>
   
   <p>
     <a href="https://shaik-adil-portfolio.vercel.app"><b>View Live Website</b></a>
