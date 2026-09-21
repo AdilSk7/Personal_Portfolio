@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.png" alt="Shaik Adil Profile" width="150" style="border-radius: 50%; border: 3px solid #00f0ff;">
+  <img src="assets/profile.png" alt="Shaik Adil Profile" width="150" style="border-radius: 50%; border: 3px solid #00f0ff;">
   <h1>Shaik Adil | Personal Portfolio</h1>
   <p><b>Full-Stack Web Developer & AI Solutions Engineer</b></p>
   
