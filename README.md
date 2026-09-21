@@ -12,8 +12,6 @@
 </p> -->
 </div>
 
-<br>
-
 Welcome to my personal portfolio repository! This project serves as an interactive, highly dynamic showcase of my software engineering capabilities, built from the ground up to emphasize stunning aesthetics and bleeding-edge user experience. 
 
 It heavily features premium **Glassmorphism UI** elements, fluid micro-animations, and a completely custom **3D Orbital Solar System** navigation mapped entirely via CSS and JavaScript physics. 
